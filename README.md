@@ -38,7 +38,7 @@ A minimal Document QA Chatbot built with FastAPI, Agno, and NiceGUI that streams
 
 2. **Create virtual environment**:
    ```bash
-   python -m venv venv
+   python3 -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    ```
 
