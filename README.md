@@ -33,7 +33,7 @@ A minimal Document QA Chatbot built with FastAPI, Agno, and NiceGUI that streams
 1. **Clone the repository**:
    ```bash
    git clone <repository-url>
-   cd qa-chatbot
+   cd rag-agno-chatbot
    ```
 
 2. **Create virtual environment**:
